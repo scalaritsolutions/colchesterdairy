@@ -56,7 +56,7 @@ const App = () => {
       <header className="header">
         <div className="container header-content">
           <div className="logo" style={{display: 'flex', alignItems: 'center', gap: '15px'}}>
-            <img src="/logo.png" alt="Colchester Dairy" width="64" height="64" style={{borderRadius: '50%', boxShadow: '0 4px 12px rgba(0,0,0,0.1)', border: '2px solid white'}} />
+            <img src="./logo.png" alt="Colchester Dairy" width="64" height="64" style={{borderRadius: '50%', boxShadow: '0 4px 12px rgba(0,0,0,0.1)', border: '2px solid white'}} />
             <span style={{fontWeight: '900', fontSize: '1.5rem', letterSpacing: '-0.03em', color: 'var(--color-primary)'}}>COLCHESTER DAIRY</span>
           </div>
           <div className="flex items-center gap-4">

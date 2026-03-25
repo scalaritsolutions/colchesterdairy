@@ -14,7 +14,7 @@ const Login = ({ onLogin }) => {
   return (
     <div className="login-page">
       <div className="login-card">
-        <img src="/logo.png" alt="Colchester Dairy" className="login-logo" />
+        <img src="./logo.png" alt="Colchester Dairy" className="login-logo" />
         
         <h1 className="login-title">Welcome Back</h1>
         <p className="login-subtitle">Fresh milk, local dairy, delivered to your door.</p>
